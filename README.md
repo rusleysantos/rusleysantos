@@ -5,9 +5,8 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato engraçado: Sou contrabaixista não praticante
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rusleysantos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusleysantos&layout=compact&theme=dark)](https://github.com/rusleysantos)
-
-
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
-
+<div>
+  <a href="https://www.linkedin.com/in/rusleysantos/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rusleysantos&show_icons=true&theme=dark#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusleysantos&layout=compact&theme=dark">  
+</div>
