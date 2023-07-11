@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá sou Rusley S. Santos bem-vindo ao meu git! 👋
 
-<!--
-**rusleysantos/rusleysantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou desenvolvedor .NET e Angular
+- 🌱 Estou concluindo uma pós graduação em Dados e Inteligencia Artificial
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fato engraçado: Sou contrabaixista não praticante
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rusleysantos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusleysantos&layout=compact&theme=dark)](https://github.com/rusleysantos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+
